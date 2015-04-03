@@ -1,0 +1,36 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab);
+
+
+.content {
+	margin-top: 50px;
+}
+.undecorated-link:hover {
+	text-decoration: none;
+}
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+	display: none !important;
+}
+.ng-invalid.ng-dirty {
+	border-color: #FA787E;
+}
+.ng-valid.ng-dirty {
+	border-color: #78FA89;
+}
+
+
+.banner1 {
+	display: inline-block;
+	text-align: center;
+	background-color: #d40000;
+	background: url("../img/bg2.jpeg");
+	height: 937px;
+	width: 100%;
+}
+
+
+.title1 {
+	color: black;
+	font-size: 60px;
+	font-family: 'Roboto Slab', serif;
+	text-shadow: 2px 2px #000;
+}
